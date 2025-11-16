@@ -1,0 +1,1047 @@
+fileFormatVersion: 2
+guid: ac71a1b1e78d0b841a3b6336ef15cb7d
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: eating_animation_finished 1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 152
+        height: 150
+      alignment: 9
+      pivot: {x: 0.6118, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c52da10980b7e7649aa491e25bd5cc85
+      internalID: -1902135572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eating_animation_finished 1_1
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 0
+        width: 152
+        height: 150
+      alignment: 9
+      pivot: {x: 0.6118, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d197ed8e8e653044bd80494837a3916
+      internalID: 1432674691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eating_animation_finished 1_2
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 0
+        width: 152
+        height: 150
+      alignment: 9
+      pivot: {x: 0.6118, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c566c9b0b94b046419ca483141781e1a
+      internalID: -172218362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eating_animation_finished 1_3
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 0
+        width: 152
+        height: 150
+      alignment: 9
+      pivot: {x: 0.6118, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9462f8ad3efa60f4e9980462d4ac1ddb
+      internalID: -1859033331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eating_animation_finished 1_4
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 0
+        width: 152
+        height: 150
+      alignment: 9
+      pivot: {x: 0.6118, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b36b3048a682f5d4fabbdb2c0be782bc
+      internalID: 1932800150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eating_animation_finished 1_5
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 0
+        width: 152
+        height: 150
+      alignment: 9
+      pivot: {x: 0.6118, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67656392038aedc48bc8d1f19dab9867
+      internalID: 425189551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eating_animation_finished 1_6
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 0
+        width: 152
+        height: 150
+      alignment: 9
+      pivot: {x: 0.6118, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e90b91f8fda68a49a8654b303bfd2ae
+      internalID: 1881215312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eating_animation_finished 1_7
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 0
+        width: 152
+        height: 150
+      alignment: 9
+      pivot: {x: 0.6118, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbef40acf4632bd47957146b0983799f
+      internalID: -349510641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eating_animation_finished 1_8
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 0
+        width: 152
+        height: 150
+      alignment: 9
+      pivot: {x: 0.6118, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0fd754e1bab423478423f89c4193610
+      internalID: -1596164324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eating_animation_finished 1_9
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 0
+        width: 152
+        height: 150
+      alignment: 9
+      pivot: {x: 0.6118, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce912bb9985c04b459bee61a7b602b52
+      internalID: -838003165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eating_animation_finished 1_10
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 0
+        width: 152
+        height: 150
+      alignment: 9
+      pivot: {x: 0.6118, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e73573cc006d2f4796ef484920b3a9c
+      internalID: 1119541827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eating_animation_finished 1_11
+      rect:
+        serializedVersion: 2
+        x: 1672
+        y: 0
+        width: 152
+        height: 150
+      alignment: 9
+      pivot: {x: 0.6118, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdc9fa9be208f474692c0837db38a2cc
+      internalID: -918403886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eating_animation_finished 1_12
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 0
+        width: 152
+        height: 150
+      alignment: 9
+      pivot: {x: 0.6118, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5696dea1586a9049bfe9a9bc78f9e51
+      internalID: 202456086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eating_animation_finished 1_13
+      rect:
+        serializedVersion: 2
+        x: 1976
+        y: 0
+        width: 152
+        height: 150
+      alignment: 9
+      pivot: {x: 0.6118, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6041243c51bb767418e6a54734079db6
+      internalID: -294934971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eating_animation_finished 1_14
+      rect:
+        serializedVersion: 2
+        x: 2128
+        y: 0
+        width: 152
+        height: 150
+      alignment: 9
+      pivot: {x: 0.6118, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cec3bea2be9864b4b87977cc92f341b8
+      internalID: -671081847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eating_animation_finished 1_15
+      rect:
+        serializedVersion: 2
+        x: 2280
+        y: 0
+        width: 152
+        height: 150
+      alignment: 9
+      pivot: {x: 0.6118, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3ca38b5e3071044885232a7587d9e8f
+      internalID: -307885665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eating_animation_finished 1_16
+      rect:
+        serializedVersion: 2
+        x: 2432
+        y: 0
+        width: 152
+        height: 150
+      alignment: 9
+      pivot: {x: 0.6118, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 271a6861f045762439fc4d5999affa75
+      internalID: -1619490189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eating_animation_finished 1_17
+      rect:
+        serializedVersion: 2
+        x: 2584
+        y: 0
+        width: 152
+        height: 150
+      alignment: 9
+      pivot: {x: 0.6118, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67e443e3f4e53984295441bfaf837f7a
+      internalID: -1469247655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eating_animation_finished 1_18
+      rect:
+        serializedVersion: 2
+        x: 2736
+        y: 0
+        width: 152
+        height: 150
+      alignment: 9
+      pivot: {x: 0.6118, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2317c907273e5b43b122b958f166543
+      internalID: -1820033486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eating_animation_finished 1_19
+      rect:
+        serializedVersion: 2
+        x: 2888
+        y: 0
+        width: 152
+        height: 150
+      alignment: 9
+      pivot: {x: 0.6118, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcffd38f3b7293545bcd356f6eec34f5
+      internalID: -288438589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eating_animation_finished 1_20
+      rect:
+        serializedVersion: 2
+        x: 3040
+        y: 0
+        width: 152
+        height: 150
+      alignment: 9
+      pivot: {x: 0.6118, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c11a4bc5b1480845b12cc4a19baf13a
+      internalID: -1536309403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eating_animation_finished 1_21
+      rect:
+        serializedVersion: 2
+        x: 3192
+        y: 0
+        width: 152
+        height: 150
+      alignment: 9
+      pivot: {x: 0.6118, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0be5ef66f26c1942a85a1977e695d46
+      internalID: 237016615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eating_animation_finished 1_22
+      rect:
+        serializedVersion: 2
+        x: 3344
+        y: 0
+        width: 152
+        height: 150
+      alignment: 9
+      pivot: {x: 0.6118, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb5165ce2501f7c4dba0ba8d60ed4418
+      internalID: 460168579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eating_animation_finished 1_23
+      rect:
+        serializedVersion: 2
+        x: 3496
+        y: 0
+        width: 152
+        height: 150
+      alignment: 9
+      pivot: {x: 0.6118, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7c754d863697a84b97ba15b941a6ed0
+      internalID: -1839192687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eating_animation_finished 1_24
+      rect:
+        serializedVersion: 2
+        x: 3648
+        y: 0
+        width: 152
+        height: 150
+      alignment: 9
+      pivot: {x: 0.6118, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38cf47d5987b8984eaf52482c2a8c769
+      internalID: -289698252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eating_animation_finished 1_25
+      rect:
+        serializedVersion: 2
+        x: 3800
+        y: 0
+        width: 152
+        height: 150
+      alignment: 9
+      pivot: {x: 0.6118, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8e6d4c0aa1960d4c90281efcfcfa138
+      internalID: 1445029830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eating_animation_finished 1_26
+      rect:
+        serializedVersion: 2
+        x: 3952
+        y: 0
+        width: 152
+        height: 150
+      alignment: 9
+      pivot: {x: 0.6118, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fb30f49ac76fa541be873acce2cc24e
+      internalID: 250134013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eating_animation_finished 1_27
+      rect:
+        serializedVersion: 2
+        x: 4104
+        y: 0
+        width: 152
+        height: 150
+      alignment: 9
+      pivot: {x: 0.6118, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd4fca8b3b3be5e4daf3b37e5cbdeb45
+      internalID: -888495901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eating_animation_finished 1_28
+      rect:
+        serializedVersion: 2
+        x: 4256
+        y: 0
+        width: 152
+        height: 150
+      alignment: 9
+      pivot: {x: 0.6118, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7463d55493848484885012e50b3292d3
+      internalID: -1992714950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eating_animation_finished 1_29
+      rect:
+        serializedVersion: 2
+        x: 4408
+        y: 0
+        width: 152
+        height: 150
+      alignment: 9
+      pivot: {x: 0.6118, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8673aeb3315e574488d188ea8dfaa14
+      internalID: -2003893713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eating_animation_finished 1_30
+      rect:
+        serializedVersion: 2
+        x: 4560
+        y: 0
+        width: 152
+        height: 150
+      alignment: 9
+      pivot: {x: 0.6118, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c95cf160b72c14d4181351c2bca0e375
+      internalID: -1052541847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eating_animation_finished 1_31
+      rect:
+        serializedVersion: 2
+        x: 4712
+        y: 0
+        width: 152
+        height: 150
+      alignment: 9
+      pivot: {x: 0.6118, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3170028177ab7249aa94306d575f287
+      internalID: 494621035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eating_animation_finished 1_32
+      rect:
+        serializedVersion: 2
+        x: 4864
+        y: 0
+        width: 152
+        height: 150
+      alignment: 9
+      pivot: {x: 0.6118, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94b22288b2aa2f3498611aec5d3c59d2
+      internalID: -754530666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eating_animation_finished 1_33
+      rect:
+        serializedVersion: 2
+        x: 5016
+        y: 0
+        width: 152
+        height: 150
+      alignment: 9
+      pivot: {x: 0.6118, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2711a4733700095439acf6cd5ab4dec2
+      internalID: 2127893595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eating_animation_finished 1_34
+      rect:
+        serializedVersion: 2
+        x: 5168
+        y: 0
+        width: 152
+        height: 150
+      alignment: 9
+      pivot: {x: 0.6118, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6adc4eea11ad344a9e0e23d2effb85c
+      internalID: -1483156591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eating_animation_finished 1_35
+      rect:
+        serializedVersion: 2
+        x: 5320
+        y: 0
+        width: 152
+        height: 150
+      alignment: 9
+      pivot: {x: 0.6118, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd78fadefd9812341b0250bc7f44d625
+      internalID: 371265636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eating_animation_finished 1_36
+      rect:
+        serializedVersion: 2
+        x: 5472
+        y: 0
+        width: 152
+        height: 150
+      alignment: 9
+      pivot: {x: 0.6118, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efbdacdbc096c96419caf7fd21a5540e
+      internalID: 154553157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eating_animation_finished 1_37
+      rect:
+        serializedVersion: 2
+        x: 5624
+        y: 0
+        width: 152
+        height: 150
+      alignment: 9
+      pivot: {x: 0.6118, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c526e047b20226242bd55c909d6e75ac
+      internalID: -1695777908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eating_animation_finished 1_38
+      rect:
+        serializedVersion: 2
+        x: 5776
+        y: 0
+        width: 152
+        height: 150
+      alignment: 9
+      pivot: {x: 0.6118, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10fb1c37c6efa7e459a82a7a2d61f8b0
+      internalID: -864180022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eating_animation_finished 1_39
+      rect:
+        serializedVersion: 2
+        x: 5928
+        y: 0
+        width: 152
+        height: 150
+      alignment: 9
+      pivot: {x: 0.6118, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97e20a7a067abe1459cc377578af4113
+      internalID: 1760369795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eating_animation_finished 1_40
+      rect:
+        serializedVersion: 2
+        x: 6080
+        y: 0
+        width: 152
+        height: 150
+      alignment: 9
+      pivot: {x: 0.6118, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8671f8e1b8ea14468bc6b8f94e0b107
+      internalID: 617684885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eating_animation_finished 1_41
+      rect:
+        serializedVersion: 2
+        x: 6232
+        y: 0
+        width: 152
+        height: 150
+      alignment: 9
+      pivot: {x: 0.6118, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 421ce17316b72ed469c0bb8de01aae6d
+      internalID: -998033803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      eating_animation_finished 1_35: 371265636
+      eating_animation_finished 1_17: -1469247655
+      eating_animation_finished 1_0: -1902135572
+      eating_animation_finished 1_5: 425189551
+      eating_animation_finished 1_20: -1536309403
+      eating_animation_finished 1_28: -1992714950
+      eating_animation_finished 1_30: -1052541847
+      eating_animation_finished 1_3: -1859033331
+      eating_animation_finished 1_6: 1881215312
+      eating_animation_finished 1_9: -838003165
+      eating_animation_finished 1_19: -288438589
+      eating_animation_finished 1_40: 617684885
+      eating_animation_finished 1_1: 1432674691
+      eating_animation_finished 1_8: -1596164324
+      eating_animation_finished 1_11: -918403886
+      eating_animation_finished 1_38: -864180022
+      eating_animation_finished 1_15: -307885665
+      eating_animation_finished 1_14: -671081847
+      eating_animation_finished 1_23: -1839192687
+      eating_animation_finished 1_12: 202456086
+      eating_animation_finished 1_16: -1619490189
+      eating_animation_finished 1_34: -1483156591
+      eating_animation_finished 1_36: 154553157
+      eating_animation_finished 1_2: -172218362
+      eating_animation_finished 1_24: -289698252
+      eating_animation_finished 1_37: -1695777908
+      eating_animation_finished 1_4: 1932800150
+      eating_animation_finished 1_33: 2127893595
+      eating_animation_finished 1_39: 1760369795
+      eating_animation_finished 1_10: 1119541827
+      eating_animation_finished 1_32: -754530666
+      eating_animation_finished 1_25: 1445029830
+      eating_animation_finished 1_18: -1820033486
+      eating_animation_finished 1_31: 494621035
+      eating_animation_finished 1_13: -294934971
+      eating_animation_finished 1_27: -888495901
+      eating_animation_finished 1_7: -349510641
+      eating_animation_finished 1_41: -998033803
+      eating_animation_finished 1_26: 250134013
+      eating_animation_finished 1_22: 460168579
+      eating_animation_finished 1_21: 237016615
+      eating_animation_finished 1_29: -2003893713
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
